@@ -1,6 +1,6 @@
 package com.sudreeshya.day27.repository;
 
-import com.sudreeshya.day27.controller.model.Student;
+import com.sudreeshya.day27.model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

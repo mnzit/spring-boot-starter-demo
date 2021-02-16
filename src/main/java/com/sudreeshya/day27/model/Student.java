@@ -1,4 +1,4 @@
-package com.sudreeshya.day27.controller.model;
+package com.sudreeshya.day27.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

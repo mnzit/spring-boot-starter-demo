@@ -1,7 +1,7 @@
 package com.sudreeshya.day27.service.impl;
 
 import com.sudreeshya.day27.builder.ResponseBuilder;
-import com.sudreeshya.day27.controller.model.Student;
+import com.sudreeshya.day27.model.Student;
 import com.sudreeshya.day27.dto.GenericResponse;
 import com.sudreeshya.day27.repository.StudentRepository;
 import com.sudreeshya.day27.service.StudentService;
